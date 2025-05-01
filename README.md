@@ -29,6 +29,9 @@
     <div>
         <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,nestjs," alt="icon" />
     </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=react,angular,vue,redux,mui,tailwind" alt="icon" />
+    </div>
 </div>
 
 <p align="center">
