@@ -1,4 +1,3 @@
-## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 <div>
     <img align="right" src="https://komarev.com/ghpvc/?username=gold-mouse&label=Profile%20views&color=0e75b6&style=flat" alt="gold-mouse" />
 </div>
@@ -11,15 +10,15 @@
     <img src="https://github-trophies.vercel.app/?username=gold-mouse&margin-h=10&margin-w=10&theme=algolia&title=MultiLanguage,LongTimeUser,Commits,Followers,Stars,NewUser" alt="gold-mouse" />
 </p>
 
-<p align="left">
-<span style="color: #7b9dff; font-size: 20px">
+<h2 align="left" color="cornflowerblue">
+<span>
     <b>
         <i>
             I specialize in building AI-powered platforms and applications using the latest technologies. My focus is on creating seamless, high-performance solutions with a variety of powerful libraries and tools.
         </i>
     </b>
 </span>
-</p>
+</h2>
 <h3 align="left">Languages and Tools:</h3>
 <div
     style="display: flex; flex-direction: column; row-gap: 10px; margin-bottom: 20px;"
