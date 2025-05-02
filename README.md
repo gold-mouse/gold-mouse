@@ -24,10 +24,10 @@
     style="display: flex; flex-direction: column; row-gap: 10px; margin-bottom: 20px;"
 >
     <div>
-        <img src="https://skillicons.dev/icons?i=ai,python,django,flask,selenium,docker" alt="skil-icon" />
+        <img src="https://skillicons.dev/icons?i=ai,python,django,flask,selenium,docker" alt="skil-icon" title="AI, Python, Django, Flask, Selenium, Docker" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,nestjs," alt="icon" />
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,nestjs," alt="icon" title="JavaScript, TypeScript, Node.js, Express.js, Nest.js" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=react,angular,vue,redux,mui,tailwind" alt="icon" />
