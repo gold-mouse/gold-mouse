@@ -30,7 +30,7 @@
         <img src="https://skillicons.dev/icons?i=js,ts,nodejs,expressjs,nestjs," alt="icon" title="JavaScript, TypeScript, Node.js, Express.js, Nest.js" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=react,angular,vue,redux,mui,tailwind" alt="icon" />
+        <img src="https://skillicons.dev/icons?i=react,angular,vue,flutter,redux,mui,tailwind" alt="icon" />
     </div>
 </div>
 
