@@ -145,7 +145,6 @@
 
 <p align="center">
     <img  height="156" src="https://github-readme-stats.vercel.app/api?username=gold-mouse&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img  height="156" src="https://github-readme-streak-stats.herokuapp.com/?user=gold-mouse&theme=react" alt="GitHub Streak" />
 </p>
 
 <p align="center">
