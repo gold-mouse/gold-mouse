@@ -1,7 +1,7 @@
 <div>
     <img align="right" src="https://komarev.com/ghpvc/?username=gold-mouse&label=Profile%20views&color=0e75b6&style=flat" alt="gold-mouse" />
 </div>
-<h1 align="center">Hi👋, I build <b>intelligent software</b> - ⚡fast, light, and sharp as a mouse. 🐭</h1>
+<h1 align="center">Hi👋, I build <b>intelligent software</b> - ⚡fast, light, and sharp 🐭</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=AI+Powered+Platform+Development+-+Web+%26+Mobile+Full+Stack+Developer!" alt="Typing SVG" />
