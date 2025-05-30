@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=5000&pause=600&center=true&random=true&width=970&height=64&lines=AI+Powered+Platform+Development+-+Web+%26+Mobile+Full+Stack+Developer!" alt="Typing SVG" />
 </p>
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=gold-mouse&margin-h=10&margin-w=10&theme=algolia" alt="gold-mouse" />
+    <img src="https://github-trophies.vercel.app/?username=sindresorhus&margin-h=10&margin-w=10&theme=algolia" alt="gold-mouse" />
 </p>
 
 <h2 align="left" color="cornflowerblue">
